@@ -1,0 +1,9 @@
+{
+	"name": "datacricks-engenheiro",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25565fff-9a26-4c05-b1b9-7d35a9951924",
+		"tenantId": "671c8ef2-726b-40c3-a60f-5bf77e39c2e3"
+	}
+}
